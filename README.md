@@ -1,2 +1,5 @@
-# javascript-aluraplay
+# ALURAPLAY JAVASCRIPT
+
+<hr>
+
 Projeto Reprodutor de Vídeo (AluraPlay)
